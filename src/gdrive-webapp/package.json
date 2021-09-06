@@ -1,7 +1,7 @@
 {
   "name": "@erickwendel/gdrive-webapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.",
   "main": "index.js",
   "scripts": {
     "start": "npx http-server public"
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.12.3"
-  }
+  },
+  "devDependencies": {}
 }
